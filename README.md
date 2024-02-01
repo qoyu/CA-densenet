@@ -1,2 +1,2 @@
-# testing
-一次实验
+# CA-densenet及相关实验代码
+
